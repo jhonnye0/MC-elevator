@@ -1,9 +1,12 @@
 # MC-elevator
 
 
-## Grupo: Mateus Fernando Felismino da Silva Patriota, Jhonnye Gabriel de Oliveira Farias, Hugo Gabriel de Melo Santos
+### Grupo
+- Mateus Fernando Felismino da Silva Patriota
+- Jhonnye Gabriel de Oliveira Farias
+- Hugo Gabriel de Melo Santos
 
-### Descrição:
+### Descrição
 Projeto de um elevador feito em assembly para a disciplina de Microcontroladores
 
 ### Objetivo
